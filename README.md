@@ -46,8 +46,7 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-
-https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/38eb0565-5635-4e06-ac15-1b12cb0038fa
+![Screenshot (202)](https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/38eb0565-5635-4e06-ac15-1b12cb0038fa)
 
 The Dashboard page provides an overview of product and order information.
 
