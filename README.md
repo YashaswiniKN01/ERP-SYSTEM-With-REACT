@@ -46,51 +46,61 @@ This repository contains the front end code for a web application. The applicati
 
 ### DASHBOARD
 
-![Picsart_24-03-12_13-15-46-184]
 
+https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/38eb0565-5635-4e06-ac15-1b12cb0038fa
 
 The Dashboard page provides an overview of product and order information.
 
 ### PRODUCT PAGE
 
-![Picsart_24-03-12_14-19-35-027]
+
+https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/f1494477-ca30-475e-9f7c-db9c2fa13b36
 
 On the Products page, you can view, add, edit, and delete products.
 
 ### Viewing Product Information
 
 
-![Picsart_24-03-12_14-41-38-773]
+
+https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/62ca4794-80db-4b92-ac0f-2865fea0a353
+
 On the Products page, you can see a list of products with details such as name, category, price, and stock quantity.
 
 ### Editing a Product
 
-![Picsart_24-03-12_14-47-16-281]
+
+https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/f672de51-d91d-42c6-b42a-5cf551aed307
 
 To edit a product, click on the "Edit" button next to the product you want to edit. Update the information and click "Save".
 
 ### Adding a New Product
 
-![Picsart_24-03-12_14-52-12-169]
+
+https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/fde371e0-c365-40ab-964b-8e748a74b9c3
+
 To add a new product, click on the "Add Product" button, fill in the required fields, and click "Save".
 
 ### ORDER PAGE
 
-![Picsart_24-03-12_15-55-32-683]
+
+https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/3b3c669c-398a-46af-b142-785012849d37
+
 On the Orders page, you can view order details, update order status, and delete orders.
 
 ### Viewing Order Details
 
-![Screenshot (88)-01]
+
+
 On the Orders page, you can view details of each order by clicking on the "View Details" button.
 
 ### Updating Order Status
-
+https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/45fcdbdc-4dd3-4c7c-829e-6b1513d7836e
 You can update the status of an order to "Shipped" by clicking the "Ship" button.
 
 ### Order Calender view
 
-![Picsart_24-03-12_16-11-12-344]
+
+https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/38bee497-5e1a-4964-86bc-9433e184d1ac
 You can view and display the order with expected delivery date by clicking  a particular date on a calender
 
 
