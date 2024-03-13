@@ -52,8 +52,7 @@ The Dashboard page provides an overview of product and order information.
 
 ### PRODUCT PAGE
 
-
-https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/f1494477-ca30-475e-9f7c-db9c2fa13b36
+![Screenshot (203)](https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/f1494477-ca30-475e-9f7c-db9c2fa13b36)
 
 On the Products page, you can view, add, edit, and delete products.
 
@@ -61,49 +60,47 @@ On the Products page, you can view, add, edit, and delete products.
 
 
 
-https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/62ca4794-80db-4b92-ac0f-2865fea0a353
 
 On the Products page, you can see a list of products with details such as name, category, price, and stock quantity.
 
 ### Editing a Product
+![Screenshot (204)](https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/62ca4794-80db-4b92-ac0f-2865fea0a353)
 
-
-https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/f672de51-d91d-42c6-b42a-5cf551aed307
 
 To edit a product, click on the "Edit" button next to the product you want to edit. Update the information and click "Save".
 
 ### Adding a New Product
 
 
-https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/fde371e0-c365-40ab-964b-8e748a74b9c3
+![Screenshot (204)](https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/f672de51-d91d-42c6-b42a-5cf551aed307)
 
 To add a new product, click on the "Add Product" button, fill in the required fields, and click "Save".
 
 ### ORDER PAGE
 
+![Screenshot (205)](https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/fde371e0-c365-40ab-964b-8e748a74b9c3)
 
-https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/3b3c669c-398a-46af-b142-785012849d37
 
 On the Orders page, you can view order details, update order status, and delete orders.
 
 ### Viewing Order Details
 
-
-
+![Screenshot (206)](https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/3b3c669c-398a-46af-b142-785012849d37)
 On the Orders page, you can view details of each order by clicking on the "View Details" button.
 
 ### Updating Order Status
-https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/45fcdbdc-4dd3-4c7c-829e-6b1513d7836e
+
 You can update the status of an order to "Shipped" by clicking the "Ship" button.
 
 ### Order Calender view
 
 
-https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/38bee497-5e1a-4964-86bc-9433e184d1ac
+![Screenshot (207)](https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/45fcdbdc-4dd3-4c7c-829e-6b1513d7836e)
 You can view and display the order with expected delivery date by clicking  a particular date on a calender
 
 
 ### Navigation
 
-![Screenshot_20240313-093210_Evolution X Launcher-01]
+![Screenshot (208)](https://github.com/YashaswiniKN01/ERP-SYSTEM-With-REACT/assets/161180800/38bee497-5e1a-4964-86bc-9433e184d1ac)
+
 Use the navigation bar at the top of the page to switch between different sections of the application: Dashboard, Products, and Orders.
